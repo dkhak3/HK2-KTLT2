@@ -1,0 +1,2 @@
+Ma Hang        |Ten Hang       |So Luong Ban   |Don Gia        |Thanh Tien     
+3              |Mang Hinh      |1000           |20$            |20000$

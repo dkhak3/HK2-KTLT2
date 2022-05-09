@@ -1,0 +1,7 @@
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\String\bin\Debug\String.exe.config
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\String\bin\Debug\String.exe
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\String\bin\Debug\String.pdb
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\String\obj\Debug\String.csproj.AssemblyReference.cache
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\String\obj\Debug\String.exe
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\String\obj\Debug\String.pdb

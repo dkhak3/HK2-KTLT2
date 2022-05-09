@@ -1,0 +1,15 @@
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\bin\Debug\net6.0\OnTapFile.exe
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\bin\Debug\net6.0\OnTapFile.deps.json
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\bin\Debug\net6.0\OnTapFile.runtimeconfig.json
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\bin\Debug\net6.0\OnTapFile.dll
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\bin\Debug\net6.0\OnTapFile.pdb
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\obj\Debug\net6.0\OnTapFile.csproj.AssemblyReference.cache
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\obj\Debug\net6.0\OnTapFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\obj\Debug\net6.0\OnTapFile.AssemblyInfoInputs.cache
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\obj\Debug\net6.0\OnTapFile.AssemblyInfo.cs
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\obj\Debug\net6.0\OnTapFile.csproj.CoreCompileInputs.cache
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\obj\Debug\net6.0\OnTapFile.dll
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\obj\Debug\net6.0\refint\OnTapFile.dll
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\obj\Debug\net6.0\OnTapFile.pdb
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\obj\Debug\net6.0\OnTapFile.genruntimeconfig.cache
+C:\Users\ALOLAPTOP.VN\source\repos\HKII-KTLT2\OnTapFile\obj\Debug\net6.0\ref\OnTapFile.dll
